@@ -1,0 +1,10 @@
+#Environment
+
+venv
+venv/
+venv*
+__pycache__/
+.vscode
+.vscode/
+.vscode*
+database.py
